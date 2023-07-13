@@ -6,9 +6,9 @@ import Missions from './components/Missions';
 function App() {
   return (
     <>
-    <Header />
-    <SolarSystem />
-    <Missions />
+      <Header />
+      <SolarSystem />
+      <Missions />
     </>
   );
 }

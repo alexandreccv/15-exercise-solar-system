@@ -5,7 +5,7 @@ function Header() {
     <header>
       <h1>
         Sistema Solar
-        </h1>
+      </h1>
     </header>
   );
 }
